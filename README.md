@@ -31,3 +31,9 @@ This email message aims to introduce your company and its solution to the recipi
 ### Variation: Examples of located businesses
 
 ![Screenshot (34)](https://github.com/lacreameo83/-lead-generation-using-Apollo.io/assets/142677806/cf2a14b6-fb11-463a-a477-c0617e5a01c9)
+
+###  A CSV file containing details of prospective customers, including their phone numbers and verified email addresses
+
+![Screenshot (35)](https://github.com/lacreameo83/-lead-generation-using-Apollo.io/assets/142677806/41140b81-676c-4d62-9a49-cb1fffb21f87)
+
+
